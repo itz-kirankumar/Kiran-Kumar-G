@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kiran Kumar G</h1>
+<h1 align="center">Hi 👋, I'm Kiran Kumar G </h1>
 <h3 align="center">Full Stack Developer | Passionate about AI, Data Science and Creating Innovative Web Solutions</h3>
 
 - 📫 How to reach me **itsmekirankumarkk@gmail.com**
